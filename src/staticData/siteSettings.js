@@ -1,4 +1,4 @@
-import logo from "@/public/assets/img/site-logo.svg";
+import logo from "/src/assets/img/site-logo.svg";
 import { IoHomeOutline } from "react-icons/io5";
 import { CiUser } from "react-icons/ci";
 import { IoBriefcaseOutline } from "react-icons/io5";

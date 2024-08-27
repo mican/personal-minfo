@@ -6,6 +6,8 @@ import expressiveCode from "astro-expressive-code";
 import icon from "astro-icon";
 import { defineConfig } from "astro/config";
 import { expressiveCodeOptions } from "./src/site.config";
+import react from '@astrojs/react';
+
 
 // Remark plugins
 import remarkDirective from "remark-directive"; /* Handle ::: directives as nodes */
@@ -22,6 +24,7 @@ export default defineConfig({
 		domains: ["webmention.io"],
 	},
 	integrations: [
+		react(),
 		expressiveCode(expressiveCodeOptions),
 		icon(),
 		tailwind({

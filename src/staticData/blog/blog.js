@@ -3,9 +3,9 @@ import { FaTwitter } from "react-icons/fa";
 import { BiWorld } from "react-icons/bi";
 import { FaGithub } from "react-icons/fa";
 
-import comment1Image from "@/public/assets/img/blog/comment-author.png";
-import comment2Image from "@/public/assets/img/blog/comment-author2.png";
-import comment3Image from "@/public/assets/img/blog/comment-author.png";
+import comment1Image from "/src/assets/img/blog/comment-author.png";
+import comment2Image from "/src/assets/img/blog/comment-author2.png";
+import comment3Image from "/src/assets/img/blog/comment-author.png";
 
 export const blogSocials = [
   {

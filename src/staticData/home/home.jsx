@@ -15,46 +15,46 @@ import {
 import { GrTasks } from "react-icons/gr";
 import { BiCheckDouble, BiCommentCheck } from "react-icons/bi";
 
-import figmaImage from "@/public/assets/img/skill/figma.svg";
-import webflowImage from "@/public/assets/img/skill/webflow.svg";
-import tailwindImage from "@/public/assets/img/skill/tailwind.svg";
-import htmlImage from "@/public/assets/img/skill/html.svg";
-import cssImage from "@/public/assets/img/skill/css.svg";
-import jsImage from "@/public/assets/img/skill/js.svg";
-import jqueryImage from "@/public/assets/img/skill/jquery.svg";
+import figmaImage from "/src/assets/img/skill/figma.svg";
+import webflowImage from "/src/assets/img/skill/webflow.svg";
+import tailwindImage from "/src/assets/img/skill/tailwind.svg";
+import htmlImage from "/src/assets/img/skill/html.svg";
+import cssImage from "/src/assets/img/skill/css.svg";
+import jsImage from "/src/assets/img/skill/js.svg";
+import jqueryImage from "/src/assets/img/skill/jquery.svg";
 
-import partner1Image from "@/public/assets/img/partners/logo1.svg";
-import partner2Image from "@/public/assets/img/partners/logo2.svg";
-import partner3Image from "@/public/assets/img/partners/logo3.svg";
-import partner4Image from "@/public/assets/img/partners/logo4.svg";
+import partner1Image from "/src/assets/img/partners/logo1.svg";
+import partner2Image from "/src/assets/img/partners/logo2.svg";
+import partner3Image from "/src/assets/img/partners/logo3.svg";
+import partner4Image from "/src/assets/img/partners/logo4.svg";
 
-import userImage from "@/public/assets/img/user-sidebar-thumb.png";
-import userImageLight from "@/public/assets/img/user-sidebar-thumb-light.png";
+import userImage from "/src/assets/img/user-sidebar-thumb.png";
+import userImageLight from "/src/assets/img/user-sidebar-thumb-light.png";
 
-import portfolioImage1Thumb from "@/public/assets/img/portfolio/portfolio-img1.png";
-import portfolioImage1 from "@/public/assets/img/portfolio/portfolio-img1.png";
+import portfolioImage1Thumb from "/src/assets/img/portfolio/portfolio-img1.png";
+import portfolioImage1 from "/src/assets/img/portfolio/portfolio-img1.png";
 
-import portfolioImage2Thumb from "@/public/assets/img/portfolio/portfolio-img2.png";
-import portfolioImage2 from "@/public/assets/img/portfolio/portfolio-img2.png";
+import portfolioImage2Thumb from "/src/assets/img/portfolio/portfolio-img2.png";
+import portfolioImage2 from "/src/assets/img/portfolio/portfolio-img2.png";
 
-import portfolioImage3Thumb from "@/public/assets/img/portfolio/portfolio-img3.png";
-import portfolioImage3 from "@/public/assets/img/portfolio/portfolio-img3.png";
+import portfolioImage3Thumb from "/src/assets/img/portfolio/portfolio-img3.png";
+import portfolioImage3 from "/src/assets/img/portfolio/portfolio-img3.png";
 
-import portfolioImage4Thumb from "@/public/assets/img/portfolio/portfolio-img4.png";
-import portfolioImage4 from "@/public/assets/img/portfolio/portfolio-img4.png";
+import portfolioImage4Thumb from "/src/assets/img/portfolio/portfolio-img4.png";
+import portfolioImage4 from "/src/assets/img/portfolio/portfolio-img4.png";
 
-import projectInner1Image from "@/public/assets/img/blog/article-inner1.png";
-import projectInner2Image from "@/public/assets/img/blog/article-inner2.png";
+import projectInner1Image from "/src/assets/img/blog/article-inner1.png";
+import projectInner2Image from "/src/assets/img/blog/article-inner2.png";
 
-import blog1Thumbnail from "@/public/assets/img/blog/article1.png";
-import blog1Image from "@/public/assets/img/blog/article1.png";
-import blog2Thumbnail from "@/public/assets/img/blog/article2.png";
-import blog2Image from "@/public/assets/img/blog/article2.png";
-import blog3Thumbnail from "@/public/assets/img/blog/article3.png";
-import blog3Image from "@/public/assets/img/blog/article3.png";
+import blog1Thumbnail from "/src/assets/img/blog/article1.png";
+import blog1Image from "/src/assets/img/blog/article1.png";
+import blog2Thumbnail from "/src/assets/img/blog/article2.png";
+import blog2Image from "/src/assets/img/blog/article2.png";
+import blog3Thumbnail from "/src/assets/img/blog/article3.png";
+import blog3Image from "/src/assets/img/blog/article3.png";
 
-import author1 from "@/public/assets/img/testimonial/author1.png";
-import author2 from "@/public/assets/img/testimonial/author2.png";
+import author1 from "/src/assets/img/testimonial/author1.png";
+import author2 from "/src/assets/img/testimonial/author2.png";
 import { IoHomeOutline } from "react-icons/io5";
 
 export const introduce = {
