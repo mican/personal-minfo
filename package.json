@@ -22,7 +22,7 @@
 		"@astrojs/tailwind": "5.1.0",
 		"@ramonak/react-progress-bar": "^5.2.0",
 		"astro": "4.14.3",
-		"astro-expressive-code": "^0.35.6",
+		"astro-expressive-code": "^0.37.0",
 		"astro-icon": "^1.1.1",
 		"cssnano": "^7.0.5",
 		"framer-motion": "^11.0.8",
